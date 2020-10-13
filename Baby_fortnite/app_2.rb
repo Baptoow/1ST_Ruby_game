@@ -21,7 +21,12 @@ THE LAST WARRIOR  \||--+--|--+-/-|     \   \
         \   \__, \_     `~'     _/ .__/   /            
          `-._,-'   `-._______,-'   `-._,-'
 "
-puts 
+puts "=========================================================================="
+puts"You are in the misty woods of Zorglub two opponants are searching for you !
+          You must progress undercover to find weapons and health pack 
+                          and fight your way out"
+puts "=========================================================================="
+
 #greeting message
 puts "------------------------------------------------"
 puts "|   Welcome to 'The last standing warrior'!     |"
